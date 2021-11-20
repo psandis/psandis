@@ -1,3 +1,3 @@
-PSandis site to be updated soon.
+site to be updated soon.
 
 -- Work in progress --
