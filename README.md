@@ -13,7 +13,7 @@
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
-> Two decades of building behind the scenes. Now shipping in the open — turning years of unfinished ideas into real tools, fast.
+> Two decades of building behind the scenes. Now shipping in the open, turning years of unfinished ideas into real tools, fast.
 
 ## The Claw Ecosystem
 
