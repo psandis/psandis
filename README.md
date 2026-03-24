@@ -27,11 +27,10 @@ CLI tools for the [OpenClaw](https://openclaw.ai) ecosystem — built with TypeS
 
 - ⚡ **[n8n-project](https://github.com/psandis/n8n-project)** — Self-hosted automation workflows (GitHub digests, AI news, meeting notes)
 - 🏔️ **[3d-landing-site](https://github.com/psandis/3d-landing-site)** — 3D landing page engine built with React & Three.js
-- 🛠️ **[scripts](https://github.com/psandis/scripts)** — Ansible, Terraform, Docker, SSH — 20 years of ops in one place
 
 ## What I'm Working On
 
-- Expanding the Claw ecosystem with more focused CLI tools
+- Expanding the AI projects and also contributing to the Open Claw ecosystem with more focused CLI tools
 - AI-powered automation workflows with n8n + AI stack (Claude,OpenAI,Gemini)
 - Infra project automation & 3D/Custom web experiences for client projects at [Boxinom](https://www.boxinom.com)
 
