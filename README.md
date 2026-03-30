@@ -1,6 +1,6 @@
 # Hi, I'm Petri
 
-**Senior IT Consultant & Architect** | 20+ years in cloud, APIs & data | Founder [@Boxinom](https://www.boxinom.com)
+**Engineering Leader & Builder** | 20+ years leading teams and shipping software | Founder [@Boxinom](https://www.boxinom.com)
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -17,22 +17,24 @@
 
 ## The Claw Ecosystem
 
-CLI tools for the [OpenClaw](https://openclaw.ai) ecosystem — built with TypeScript, designed to do one thing well.
+CLI tools for the [OpenClaw](https://openclaw.ai) ecosystem - built with TypeScript, designed to do one thing well.
 
-- 🦞 **[feedclaw](https://github.com/psandis/feedclaw)** — RSS/Atom feed reader and AI digest builder
-- 🦞 **[driftclaw](https://github.com/psandis/driftclaw)** — What version is actually running where?
-- 🦞 **[dustclaw](https://github.com/psandis/dustclaw)** — Find out what's eating your disk space
+- 🦞 **[feedclaw](https://github.com/psandis/feedclaw)** - RSS/Atom feed reader and AI digest builder
+- 🦞 **[driftclaw](https://github.com/psandis/driftclaw)** - What version is actually running where?
+- 🦞 **[dustclaw](https://github.com/psandis/dustclaw)** - Find out what's eating your disk space
+- 🦞 **[dietclaw](https://github.com/psandis/dietclaw)** - Codebase health monitor for size, bloat, and dependency weight
 
 ## Other Projects
 
-- ⚡ **[n8n-project](https://github.com/psandis/n8n-project)** — Self-hosted automation workflows (GitHub digests, AI news, meeting notes)
-- 🏔️ **[3d-landing-site](https://github.com/psandis/3d-landing-site)** — 3D landing page engine built with React & Three.js
+- ⚡ **[n8n-project](https://github.com/psandis/n8n-project)** - Self-hosted automation workflows (GitHub digests, AI news, meeting notes)
+- 🏔️ **[3d-landing-site](https://github.com/psandis/3d-landing-site)** - Interactive 3D landscape with characters, pathfinding, and GPS tracker HUD
+- 🍽️ **[restaurant-booking](https://github.com/psandis/restaurant-booking)** - Multi-step table booking app built with Next.js
 
 ## What I'm Working On
 
-- Expanding the AI projects and also contributing to the Open Claw ecosystem with more focused CLI tools
-- AI-powered automation workflows with n8n + AI stack (Claude,OpenAI,Gemini)
-- Infra project automation & 3D/Custom web experiences for client projects at [Boxinom](https://www.boxinom.com)
+- Building CLI tools for the OpenClaw ecosystem
+- AI-powered automation workflows with n8n + Claude
+- Client projects and 3D web experiences at [Boxinom](https://www.boxinom.com)
 
 ## GitHub Activity
 
