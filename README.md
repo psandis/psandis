@@ -26,6 +26,7 @@ CLI tools for the [OpenClaw](https://openclaw.ai) ecosystem - built with TypeScr
 
 ## Other Projects
 
+- 🔭 **[stackscope](https://github.com/psandis/stackscope)** - Architecture discovery CLI that scans repos and renders interactive blueprints
 - ⚡ **[n8n-project](https://github.com/psandis/n8n-project)** - Self-hosted automation workflows (GitHub digests, AI news, meeting notes)
 - 🏔️ **[3d-landing-site](https://github.com/psandis/3d-landing-site)** - Interactive 3D landscape with characters, pathfinding, and GPS tracker HUD
 - 🍽️ **[restaurant-booking](https://github.com/psandis/restaurant-booking)** - Multi-step table booking app built with Next.js
