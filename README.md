@@ -8,6 +8,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-web-services&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Salesforce](https://img.shields.io/badge/-Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
@@ -29,6 +30,7 @@ CLI tools for the [OpenClaw](https://openclaw.ai) ecosystem - built with TypeScr
 - 🔭 **[stackscope](https://github.com/psandis/stackscope)** - Architecture discovery CLI that scans repos and renders interactive blueprints
 - ⚡ **[n8n-project](https://github.com/psandis/n8n-project)** - Self-hosted automation workflows (GitHub digests, AI news, meeting notes)
 - 🏔️ **[3d-landing-site](https://github.com/psandis/3d-landing-site)** - Interactive 3D landscape with characters, pathfinding, and GPS tracker HUD
+- ☕ **[product-catalogue](https://github.com/psandis/product-catalogue)** - Multi-module product management system with REST API and server-rendered UI (Java 21, Spring Boot, PostgreSQL)
 - 🍽️ **[restaurant-booking](https://github.com/psandis/restaurant-booking)** - Multi-step table booking app built with Next.js
 
 ## What I'm Working On
