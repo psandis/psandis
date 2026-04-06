@@ -28,11 +28,12 @@ CLI tools for the [OpenClaw](https://openclaw.ai) ecosystem - built with TypeScr
 
 ## Other Projects
 
-- 🔭 **[stackscope](https://github.com/psandis/stackscope)** - Architecture discovery CLI that scans repos and renders interactive blueprints
-- ⚡ **[n8n-project](https://github.com/psandis/n8n-project)** - Self-hosted automation workflows (GitHub digests, AI news, meeting notes)
-- 🏔️ **[3d-landing-site](https://github.com/psandis/3d-landing-site)** - Interactive 3D landscape with characters, pathfinding, and GPS tracker HUD
-- ☕ **[product-catalogue](https://github.com/psandis/product-catalogue)** - Multi-module product management system with REST API and server-rendered UI (Java 21, Spring Boot, PostgreSQL)
-- 🍽️ **[restaurant-booking](https://github.com/psandis/restaurant-booking)** - Multi-step table booking app built with Next.js
+- **[stackscope](https://github.com/psandis/stackscope)** - Architecture discovery CLI that scans repos and renders interactive blueprints
+- **[event-processing](https://github.com/psandis/event-processing)** - Declarative event transformation platform with Kafka, Spring Boot, and PostgreSQL
+- **[product-catalogue](https://github.com/psandis/product-catalogue)** - Multi-module product management system with REST API and server-rendered UI (Java 21, Spring Boot, PostgreSQL)
+- **[n8n-project](https://github.com/psandis/n8n-project)** - Self-hosted automation workflows (GitHub digests, AI news, meeting notes)
+- **[3d-landing-site](https://github.com/psandis/3d-landing-site)** - Interactive 3D landscape with characters, pathfinding, and GPS tracker HUD
+- **[restaurant-booking](https://github.com/psandis/restaurant-booking)** - Multi-step table booking app built with Next.js
 
 ## What I'm Working On
 
