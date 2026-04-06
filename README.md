@@ -24,6 +24,7 @@ CLI tools for the [OpenClaw](https://openclaw.ai) ecosystem - built with TypeScr
 - 🦞 **[driftclaw](https://github.com/psandis/driftclaw)** - What version is actually running where?
 - 🦞 **[dustclaw](https://github.com/psandis/dustclaw)** - Find out what's eating your disk space
 - 🦞 **[dietclaw](https://github.com/psandis/dietclaw)** - Codebase health monitor for size, bloat, and dependency weight
+- 🦞 **[psclawmcp](https://github.com/psandis/psclawmcp)** - MCP server that exposes the OpenClaw CLIs as tools for AI assistants
 
 ## Other Projects
 
