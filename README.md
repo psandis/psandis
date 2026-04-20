@@ -25,6 +25,7 @@ CLI tools for the [OpenClaw](https://openclaw.ai) ecosystem - built with TypeScr
 - 🦞 **[dustclaw](https://github.com/psandis/dustclaw)** - Find out what's eating your disk space
 - 🦞 **[dietclaw](https://github.com/psandis/dietclaw)** - Codebase health monitor for size, bloat, and dependency weight
 - 🦞 **[mymailclaw](https://github.com/psandis/mymailclaw)** - Email scanner, categorizer, and cleaner
+- 🦞 **[wirewatch](https://github.com/psandis/wirewatch)** - Network traffic monitor with AI-assisted anomaly detection
 - 🦞 **[psclawmcp](https://github.com/psandis/psclawmcp)** - MCP server that exposes the OpenClaw CLIs as tools for AI assistants
 
 ## Other Projects
