@@ -9,6 +9,8 @@
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-web-services&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Salesforce](https://img.shields.io/badge/-Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
@@ -43,6 +45,10 @@ CLI tools for the [OpenClaw](https://openclaw.ai) ecosystem - built with TypeScr
 - AI-powered automation workflows with n8n + Claude
 - Client projects and 3D web experiences at [Boxinom](https://www.boxinom.com)
 
-## GitHub Activity
+## GitHub Stats
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/psandis)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=psandis&show_icons=true&hide_border=true&theme=default&count_private=true)
+
+---
+
+Open to engineering leadership and architecture roles. [petri.sandholm@gmail.com](mailto:petri.sandholm@gmail.com)
