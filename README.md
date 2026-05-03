@@ -45,10 +45,6 @@ CLI tools for the [OpenClaw](https://openclaw.ai) ecosystem - built with TypeScr
 - AI-powered automation workflows with n8n + Claude
 - Client projects and 3D web experiences at [Boxinom](https://www.boxinom.com)
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=psandis&show_icons=true&hide_border=true&theme=default)
-
 ---
 
 Open to engineering leadership and architecture roles. [petri.sandholm@gmail.com](mailto:petri.sandholm@gmail.com)
