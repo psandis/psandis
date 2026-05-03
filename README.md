@@ -28,6 +28,9 @@ CLI tools for the [OpenClaw](https://openclaw.ai) ecosystem - built with TypeScr
 - 🦞 **[dietclaw](https://github.com/psandis/dietclaw)** - Codebase health monitor for size, bloat, and dependency weight
 - 🦞 **[mymailclaw](https://github.com/psandis/mymailclaw)** - Email scanner, categorizer, and cleaner
 - 🦞 **[wirewatch](https://github.com/psandis/wirewatch)** - Network traffic monitor with AI-assisted anomaly detection
+- 🦞 **[speak2text](https://github.com/psandis/speak2text)** - Transcribe audio and video files using OpenAI Whisper
+- 🦞 **[text2speak](https://github.com/psandis/text2speak)** - Convert text files to audio using OpenAI TTS
+- 🦞 **[wiremonitor](https://github.com/psandis/wiremonitor)** - Network traffic web dashboard for wirewatch. Local-first, no telemetry
 - 🦞 **[psclawmcp](https://github.com/psandis/psclawmcp)** - MCP server that exposes the OpenClaw CLIs as tools for AI assistants
 
 ## Other Projects
