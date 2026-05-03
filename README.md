@@ -47,7 +47,7 @@ CLI tools for the [OpenClaw](https://openclaw.ai) ecosystem - built with TypeScr
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=psandis&show_icons=true&hide_border=true&theme=default&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=psandis&show_icons=true&hide_border=true&theme=default)
 
 ---
 
