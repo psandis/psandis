@@ -1,0 +1,29 @@
+<svg width="800" height="30" viewBox="0 0 800 30" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="pulseGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#6366f1"/>
+      <stop offset="50%"  stop-color="#0ea5e9"/>
+      <stop offset="100%" stop-color="#22c55e"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .pulse {
+      stroke: url(#pulseGrad);
+      stroke-width: 1.5;
+      fill: none;
+      stroke-dasharray: 1200;
+      stroke-dashoffset: 1200;
+      animation: draw 3s ease-in-out infinite alternate;
+    }
+    @keyframes draw {
+      from { stroke-dashoffset: 1200; opacity: 0.2; }
+      to   { stroke-dashoffset: 0; opacity: 0.9; }
+    }
+  </style>
+  <polyline class="pulse" points="
+    0,15 60,15 80,5 100,25 120,5 140,25 160,15 200,15
+    220,15 240,8 260,22 280,8 300,22 320,15 380,15
+    400,15 420,6 440,24 460,6 480,24 500,15 560,15
+    580,15 600,9 620,21 640,9 660,21 680,15 800,15
+  "/>
+</svg>

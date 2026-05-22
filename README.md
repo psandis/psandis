@@ -1,4 +1,4 @@
-# Hi, I'm Petri
+<img src="assets/header.svg" alt="Hi, I'm Petri" width="800"/>
 
 **Engineering Leader & Builder** | 20+ years leading teams and shipping software | Founder [@Boxinom](https://www.boxinom.com)
 
@@ -26,6 +26,8 @@
 - **[n8n-project](https://github.com/psandis/n8n-project)** - Self-hosted automation workflows (GitHub digests, AI news, meeting notes)
 - **[3d-landing-site](https://github.com/psandis/3d-landing-site)** - Interactive 3D landscape with characters, pathfinding, and GPS tracker HUD
 - **[restaurant-booking](https://github.com/psandis/restaurant-booking)** - Multi-step table booking app built with Next.js
+
+<img src="assets/divider.svg" alt="" width="800"/>
 
 ## Open Claw Projects
 
