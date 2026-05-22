@@ -18,7 +18,16 @@
 
 > Two decades of building behind the scenes. Now shipping in the open, turning years of unfinished ideas into real tools, fast.
 
-## The Claw Ecosystem
+## Projects
+
+- **[stackscope](https://github.com/psandis/stackscope)** - Architecture discovery CLI that scans repos and renders interactive blueprints
+- **[event-processing](https://github.com/psandis/event-processing)** - Declarative event transformation platform with Kafka, Spring Boot, and PostgreSQL
+- **[product-catalogue](https://github.com/psandis/product-catalogue)** - Multi-module product management system with REST API and server-rendered UI (Java 21, Spring Boot, PostgreSQL)
+- **[n8n-project](https://github.com/psandis/n8n-project)** - Self-hosted automation workflows (GitHub digests, AI news, meeting notes)
+- **[3d-landing-site](https://github.com/psandis/3d-landing-site)** - Interactive 3D landscape with characters, pathfinding, and GPS tracker HUD
+- **[restaurant-booking](https://github.com/psandis/restaurant-booking)** - Multi-step table booking app built with Next.js
+
+## Open Claw Projects
 
 CLI tools for the [OpenClaw](https://openclaw.ai) ecosystem - built with TypeScript, designed to do one thing well.
 
@@ -33,19 +42,10 @@ CLI tools for the [OpenClaw](https://openclaw.ai) ecosystem - built with TypeScr
 - 🦞 **[wiremonitor](https://github.com/psandis/wiremonitor)** - Network traffic web dashboard for wirewatch. Local-first, no telemetry
 - 🦞 **[psclawmcp](https://github.com/psandis/psclawmcp)** - MCP server that exposes the OpenClaw CLIs as tools for AI assistants
 
-## Other Projects
-
-- **[stackscope](https://github.com/psandis/stackscope)** - Architecture discovery CLI that scans repos and renders interactive blueprints
-- **[event-processing](https://github.com/psandis/event-processing)** - Declarative event transformation platform with Kafka, Spring Boot, and PostgreSQL
-- **[product-catalogue](https://github.com/psandis/product-catalogue)** - Multi-module product management system with REST API and server-rendered UI (Java 21, Spring Boot, PostgreSQL)
-- **[n8n-project](https://github.com/psandis/n8n-project)** - Self-hosted automation workflows (GitHub digests, AI news, meeting notes)
-- **[3d-landing-site](https://github.com/psandis/3d-landing-site)** - Interactive 3D landscape with characters, pathfinding, and GPS tracker HUD
-- **[restaurant-booking](https://github.com/psandis/restaurant-booking)** - Multi-step table booking app built with Next.js
-
 ## What I'm Working On
 
 - Building CLI tools for the OpenClaw ecosystem
-- AI-powered automation workflows with n8n + Claude
+- AI-powered automation workflows with n8n + Claude/Open AI/Gemma4
 - Client projects and 3D web experiences at [Boxinom](https://www.boxinom.com)
 
 ---
