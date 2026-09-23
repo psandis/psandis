@@ -1,6 +1,6 @@
 <img src="assets/header.svg" alt="Hi, I'm Petri" width="800"/>
 
-**Engineering Leader & Builder** | 20+ years leading teams and shipping software | Founder [@Boxinom](https://www.boxinom.com)
+**Engineering Leader & Builder** | 25+ years leading teams and shipping software | Founder [@Boxinom](https://www.boxinom.com)
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -16,40 +16,38 @@
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
-> Two decades of building behind the scenes. Now shipping in the open, turning years of unfinished ideas into real tools, fast.
+> Over two decades of building behind the scenes. Now shipping in the open, turning years of unfinished ideas into real tools, fast.
 
 ## Projects
 
 - **[stackscope](https://github.com/psandis/stackscope)** - Architecture discovery CLI that scans repos and renders interactive blueprints
+- **[sourcedash](https://github.com/psandis/sourcedash)** - Project handover scanner that reports what a repo has, what is missing, and what to fix first
+- **[siteclaw](https://github.com/psandis/siteclaw)** - Lighthouse performance tracker for client site portfolios, with Core Web Vitals, history, and cross-site root-cause correlation
+- **[driftclaw](https://github.com/psandis/driftclaw)** - Deployment drift detection: which version is actually running in each environment
 - **[event-processing](https://github.com/psandis/event-processing)** - Declarative event transformation platform with Kafka, Spring Boot, and PostgreSQL
 - **[product-catalogue](https://github.com/psandis/product-catalogue)** - Multi-module product management system with REST API and server-rendered UI (Java 21, Spring Boot, PostgreSQL)
 - **[n8n-project](https://github.com/psandis/n8n-project)** - Self-hosted automation workflows (GitHub digests, AI news, meeting notes)
-- **[3d-landing-site](https://github.com/psandis/3d-landing-site)** - Interactive 3D landscape with characters, pathfinding, and GPS tracker HUD
-- **[restaurant-booking](https://github.com/psandis/restaurant-booking)** - Multi-step table booking app built with Next.js
 
 <img src="assets/divider.svg" alt="" width="800"/>
 
-## Open Claw Projects
+## OpenClaw Projects
 
 CLI tools for the [OpenClaw](https://openclaw.ai) ecosystem - built with TypeScript, designed to do one thing well.
 
-- 🦞 **[feedclaw](https://github.com/psandis/feedclaw)** - RSS/Atom feed reader and AI digest builder
-- 🦞 **[driftclaw](https://github.com/psandis/driftclaw)** - What version is actually running where?
-- 🦞 **[dustclaw](https://github.com/psandis/dustclaw)** - Find out what's eating your disk space
-- 🦞 **[dietclaw](https://github.com/psandis/dietclaw)** - Codebase health monitor for size, bloat, and dependency weight
-- 🦞 **[mymailclaw](https://github.com/psandis/mymailclaw)** - Email scanner, categorizer, and cleaner
-- 🦞 **[wirewatch](https://github.com/psandis/wirewatch)** - Network traffic monitor with AI-assisted anomaly detection
-- 🦞 **[speak2text](https://github.com/psandis/speak2text)** - Transcribe audio and video files using OpenAI Whisper
-- 🦞 **[text2speak](https://github.com/psandis/text2speak)** - Convert text files to audio using OpenAI TTS
-- 🦞 **[wiremonitor](https://github.com/psandis/wiremonitor)** - Network traffic web dashboard for wirewatch. Local-first, no telemetry
 - 🦞 **[psclawmcp](https://github.com/psandis/psclawmcp)** - MCP server that exposes the OpenClaw CLIs as tools for AI assistants
+- 🦞 **[dietclaw](https://github.com/psandis/dietclaw)** - Codebase health monitor for size, bloat, and dependency weight
+- 🦞 **[logclaw](https://github.com/psandis/logclaw)** - Log investigator that groups stack traces, collapses repeats, and summarizes failures with AI
+- 🦞 **[wirewatch](https://github.com/psandis/wirewatch)** / **[wiremonitor](https://github.com/psandis/wiremonitor)** - Network traffic monitor with AI-assisted anomaly detection, plus a local-first web dashboard
+- 🦞 **[feedclaw](https://github.com/psandis/feedclaw)** - RSS/Atom feed reader and AI digest builder
+
+More tools on [my GitHub](https://github.com/psandis?tab=repositories).
 
 ## What I'm Working On
 
-- Building CLI tools for the OpenClaw ecosystem
-- AI-powered automation workflows with n8n + Claude/Open AI/Gemma4
+- Architecture and performance tooling for client site portfolios (siteclaw, sourcedash)
+- AI-powered automation workflows with n8n + Claude/OpenAI/Gemma 4
 - Client projects and 3D web experiences at [Boxinom](https://www.boxinom.com)
 
 ---
 
-Open to engineering leadership and architecture roles. [petri.sandholm@gmail.com](mailto:petri.sandholm@gmail.com)
+Open to engineering leadership and architecture roles. [petri.sandholm@gmail.com](mailto:petri.sandholm@gmail.com) | [psandis.github.io](https://psandis.github.io)
